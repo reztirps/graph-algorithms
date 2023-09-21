@@ -1,5 +1,5 @@
 import { Vector3 } from './vector3';
-import { Graph } from '../../models/graph';
+import { Graph } from '../models/graph';
 
 export interface FruchtermanReingold3DOptions {
   area?: number;
