@@ -1,5 +1,5 @@
 import { Vector3 } from "three";
-import { Graph } from "../../models/graph";
+import { Graph } from "../models/graph";
 
 export class Spherical {
   private graph: Graph;
