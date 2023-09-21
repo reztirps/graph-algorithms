@@ -1,5 +1,5 @@
-import { Graph } from "../../models/graph";
-import { RandomGraphGenerator } from "../../models/random-graph-generator";
+import { Graph } from "../models/graph";
+import { RandomGraphGenerator } from "../models/random-graph-generator";
 
 export class ErdosRenyi implements RandomGraphGenerator {
 
